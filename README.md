@@ -1,11 +1,6 @@
 # GVE_DevNet_RoomDevices_Room_Capacity_Alert_Send_Teams
 Enhancement to Cisco Webex Room Devices Room Capacity Alert sample to send alert to a Webex Teams Space as well. 
 
-
-
-| :exclamation:  External repository notice   |
-|:---------------------------|
-| This repository is now mirrored at "PLEASE UPDATE HERE - add External repo URL after code review is completed"  Please inform a https://github.com/gve-sw/ organization admin of any changes to mirror them to the external repo |
 ## Contacts
 * Gerardo Chaves
 
